@@ -6,7 +6,7 @@ Please give credits if you use the project files 😭
 
 [Play the prototypes here! (Official)](https://basically-games.itch.io/baldis-basics-classic-archives)
 
-[Play WebGL Build's here!]()
+[Play WebGL Build's here!](https://sillymonkeyflip.github.io/Baldi-s-Basics-Prototype-Decompile/)
 
 ## Information
 - Unity version is 2017.3.1
