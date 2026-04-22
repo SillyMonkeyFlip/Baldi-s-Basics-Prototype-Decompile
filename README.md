@@ -6,6 +6,8 @@ Please give credits if you use the project files 😭
 
 [Play the prototypes here! (Official)](https://basically-games.itch.io/baldis-basics-classic-archives)
 
+YOU MIGHT NOT BE ABLE TO PLAY WEB BUILDS DUE TO A MISTAKE I WILL NOT BE FIXING
+
 [Play WebGL Build's here!](https://sillymonkeyflip.github.io/Baldi-s-Basics-Prototype-Decompile/)
 
 ## Information
