@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Baldi's Basics in Education and Learning BETA DISK",
+"dataUrl": "Prototype4WebGLBuild.data.unityweb",
+"asmCodeUrl": "Prototype4WebGLBuild.asm.code.unityweb",
+"asmMemoryUrl": "Prototype4WebGLBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "Prototype4WebGLBuild.asm.framework.unityweb",
+"TOTAL_MEMORY": 16777216,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000"
+}
